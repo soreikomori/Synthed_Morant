@@ -5,7 +5,7 @@
     "license": "ISC",
     "transparency_mode": 3,
     "name": "Synthed Morant",
-    "updater": "https://raw.githubusercontent.com/soreikomori/synthedmorant/main/synthedmorant.json"
+    "updater": "https://raw.githubusercontent.com/soreikomori/synthedmorant/main/Synthed_Morant.json"
   },
   "background": {
     "url": "https://raw.githubusercontent.com/soreikomori/synthedmorant/main/nikoaspect.png",
