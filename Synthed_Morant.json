@@ -1,7 +1,7 @@
 {
     "manifest": {
         "author": "soreikomori",
-        "version": "0.2.1",
+        "version": "0.2.5",
         "license": "ISC",
         "name": "Synthed Morant",
         "updater": "https://raw.githubusercontent.com/soreikomori/synthedmorant/main/Synthed_Morant.json"
@@ -28,7 +28,7 @@
         "primary_dark_330": -8618356,
         "primary_dark_300": -7857292,
         "uikit_btn_compound_color_selector_dark": -12428065,
-        "primary_dark_800": -1879024753
+        "primary_dark_800": -1879024753,
         "primary_500": 0,
         "primary_600": 0,
         "primary_630": 0,
@@ -42,7 +42,7 @@
         "primary_dark_800": 0,
         "brand_500": 0,
         "brand_new": 0,
-        "brand_new_500": 0,
+        "brand_new_500": 0
     },
     "drawable_tints": {
         "drawable_overlay_channels_selected_dark": 1593860761,
